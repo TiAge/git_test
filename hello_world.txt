@@ -1,0 +1,2 @@
+Hello World
+I'm totally motivated for the Odin project!
